@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Anassgr99/Anassgr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 About Me**  
+🔹 **Full-Stack Developer | Cybersecurity Enthusiast**  
+🔹 Passionate about **Spring Boot, Angular, React, Node.js**  
+🔹 Experienced in **ELK Stack, SOC, and Network Security**  
+🔹 Building innovative solutions for **POS, Stock Management, and AI-powered apps**  
 
-Here are some ideas to get you started:
+💡 Always learning, coding, and securing applications!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌍 Connect with Me:**  
+📧 anasselgaradi@gmail.com
+🔗 https://www.linkedin.com/in/anass-el-garadi-a54405217/
+
